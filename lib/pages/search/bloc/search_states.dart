@@ -1,0 +1,3 @@
+class SearchStates {
+  const SearchStates();
+}
